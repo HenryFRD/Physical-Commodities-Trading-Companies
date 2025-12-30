@@ -3,7 +3,7 @@ A repository of all Physical Commodities Trading Companies and Houses. Including
 
 **Table of contents**
 <ul>
-  <li>[Levmet S.A.M](Companies/Levmet S.A.M)</li>
+  <li>[Levmet](companies/Levmet.md)</li>
   <li>Steelmet</li>
   <li>Network Steel</li>
   <li>Marex</li>
@@ -48,3 +48,4 @@ A repository of all Physical Commodities Trading Companies and Houses. Including
   <li></li>
   <li></li>
 </ul>
+[Levmet S.A.M](https://www.youtube.com/watch?v=uvTcd-VlM64/)
