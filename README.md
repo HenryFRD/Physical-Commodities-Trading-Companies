@@ -4,7 +4,7 @@ A repository of all Physical Commodities Trading Companies and Houses. Including
 <strong>Table of contents</strong>
 <ul>
   <li><a href="Companies/Levmet.md">Levmet</a></li>
-  <li>Steelmet</li>
+  <li><a href="Companies/Steelmet.md">Steelmet</a></li>
   <li>Network Steel</li>
   <li>Marex</li>
   <li>IMR Metallurgical resources AG</li>
